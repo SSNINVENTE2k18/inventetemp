@@ -105,33 +105,43 @@
 
     "events-MECH" : {
                     "title" : "Paper Presentation - MECH",
-                    "description" : "Your mind is abuzz with ideas and you crave the recognition you deserve. But where will you find a platform to display your might over the subject? We bring to you budding engineers, the technical paper presentation. Papers may be from any of the three broad streams in Mechanical Engineering: Manufacturing, Design and Thermal. What are you waiting for? Send in your papers!",
+                    "description" : "Do you want to portray your innovations to the outside world?Do you want to present your ideas in front of a highly experienced panel of judges?<br/>Welcome to the Paper Presentation event of the Mechanical Department. Get ready to tickle your technical nerves and impress people at SSN College of Engineering's national symposium, Invente 2k18.<br/>Papers under the following three categories are being invited:<br/><ul><li>Thermal.</li><br/><li>Design.</li><br/><li>Manufacturing.</li><br/>",
                     "rules" :
                     [
-                        "The topic must fit into one of these three streams - Manufacturing, Design or Thermal.",
-                        "The following contents are generally expected in a paper: Abstract, Keywords, Introduction, Experimental setup (if any), Numerical Model (if any), Results and Discussions, Conclusions, Acknowledgment (if any), References (compulsory) and Appendix (if any).",
-                        "Authors are requested to follow the format of any standard (preferably Mechanical Engineering Journal) under Elsevier publications while citing references and for art works, figures and tables.",
-                        "There can be a maximum of three authors per paper presented; each author can only be part of one paper.",
-                        "The paper is to be presented by one author.",
-                        "The time limit for presentation is 8 minutes; this might be followed by a Q&A session.",
-                        "The quality, novelty and depth of research involved in the paper will be judged by professors (2 in each stream) and their decision will be deemed final.",
-                        "The teams placed first and second in each stream will receive a winner's certificate along with a cash prize (certificates will be provided to individual team members).",
-                        "Other teams will receive participation certificates. ",
-                        "The paper has to be mailed to the ID mentioned below as per the standardized paper format (You could use this IEEE format); the name of the file must contain the topic in brief and the stream. Example: A manufacturing paper based on welding will have the following file name: Manufacturing - Welding.doc. The mail must also contain contact details of authors - their phone numbers and e-mail IDs.",
-                        "PS: We are against plagiarism in any form. Papers submitted will be strictly evaluated. The smallest hint of plagiarism will result in your paper being disqualified from the event.",
-                        "Please send in your papers by 6th September 2018 to sathish13090@mech.ssn.edu.in or vishakaraj13119@mech.ssn.edu.in"
+                        "<strong>Rules:</strong>",
+                        "Max. No. of members per team: 3",
+                        "Presentation time limit: 7 minutes.",
+                        "Date: 21st September",
+                        "Time: 11 AM",
+                        "Venue: Mechanical Department Seminar hall",
+                        "Last date for Abstract Submission:  7 September, 2018.",
+                        "Last date for Full paper submission: 14 September, 2018.",
+                        "The abstract is to be mailed to the email address: paperppt@mech.ssn.edu.in",
+                        "Subject in the e-mail: Paper Presentation Abstract.",
+                        "Initially please send the abstract to the email ID - paperppt@mech.ssn.edu.in , and after receiving confirmation submit the full paper through the same ID.",
+                        "Please follow the template in the website for preparation of your paper. For any clarifications regarding structure of the paper, refer to the reference journal which has been uploaded in the site.",
+                        "NOTE 1: Please avoid plagiarism as it will not be tolerated and will lead to automatic disqualification.",
+                        "NOTE 2: The mail should include the following details:",
+                         "<ul><li>Full Name.</li>",
+                         "<li>Contact No. of team members.</li>",
+                         "<li>College Name, Year and Department.</li>",
+                         "<li>Email Id of HOD.</li></ul>",
+                    "NOTE 3: Inter-department and inter college presentations are also welcome."
                     ],
-                    "venue" : "Mechanical Department Lecture Halls",
-                    "timings" : [ "21st September 2018, 1.00 pm" ],
+                    "venue" : "Mechanical Department Seminar Halls",
+                    "timings" : [ "21st September 2018, 11.00 AM" ],
                     "heads" :
                     [
-                        {
-                            "name" : "Sathish Kumar",
-                            "contacts" : [ "" ]
+                        {     
+                            "name" : "Sai Surya Kumar",
+                            "contacts" : [ "9994300005" ]
                         },
                         {
-                            "name" : "Vishakaraj S",
-                            "contacts" : [ "" ]
+                            "name" : "Naresh Nanda Rajan",
+                            "contacts" : [ "7904545720" ]
+                        },{
+                            "name":"Priyadharshini",
+                            "contacts":"9003429583"
                         }
                     ]
                 },

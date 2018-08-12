@@ -112,10 +112,15 @@ p{
         height:50px;
     }
     #pp-event-display{
-        margin-left: 22%;
-        margin-top: -51%;
         width: 56%;
+        position: absolute;
+        top: 55px;
+        left: 62px;
     }
+    #home-page-redirect{
+    position: absolute;
+    top: 0;
+}
     .flex-box-row{
           display: none;
     }
@@ -133,12 +138,18 @@ p{
         border: .7px solid white;
         width: 7.5%;
         background: #737373;
+        margin-bottom: 11px;
+    }
+    #home-page-redirect {
+        margin-left: 40%;
+        margin-top: 3%;
     }
     #flex-box-row1{
+        display: block;
       text-align:center;
       color:white;
         height: 501px;
-        margin-top: 45%;
+        margin-top: 39%;
         margin-left: 3%;
     }
     #flex-box-row2>div:active{
