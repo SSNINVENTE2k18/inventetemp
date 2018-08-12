@@ -4,8 +4,12 @@
     background:none;
 }
 #pp-main{
-    height:50px;
+    height:auto;
     margin-top:22px;
+}
+#home-page-redirect{
+    margin-left: 40%;
+    margin-top: 3%;
 }
 #notes-detail{ 
    position: relative;
@@ -31,19 +35,53 @@ p{
     background:#737373;
 }
 .flex-hover{
+    display: flex;
+    flex-direction: column;
     background: #737373;
 }
-.flex-hover:active{
-    border-width:5px;
+.flex-hover div{
+    border: none;
+    text-align: center;
+    margin-left: 30px;
+    font-size: 1.2rem;
+    margin-top: 0px;
+    background: none;
 }
+#ece-id{
+    margin-left: 21px;
+}
+#cse-id{
+    margin-left: 19px;
+}
+#mech-id{
+    margin-left: 11px;
+}
+#bme-id{
+    margin-left: 19px;
+}
+#eee-id{
+    margin-left: 20px;
+}
+#chem-id{
+    margin-left: 14px;
+}
+#civil-id{
+    margin-left: 17px;
+}
+#event-01:hover,#event-02:hover,#event-03:hover,#event-04:hover,#event-05:hover,#event-06:hover,#event-07:hover,#event-08:hover{
+    border:5px solid white;
+}
+
 #pp-event-display{
-    margin-left: 10%;
-    margin-top: 11%;
+    margin-left: 8%;
+    margin-top: 3%;
     width: 80%;
-    padding: 33px;
-    border: 3px solid white;
+    padding-left: 47px;
+    border: 3px solid #fff;
     background: #737373;
     border-radius: 10px;
+    padding-bottom: 0;
+    margin-bottom: 20px;
 }
 #pp-event-area{
     word-wrap: break-word;
@@ -52,9 +90,7 @@ p{
     color:white;
 }
 #flex-box-row1{
-      margin-top:-24px;
-      text-align:center;
-      color:white;
+    display:none;
 }
 
 .flex-box-row2{
@@ -99,6 +135,8 @@ p{
         background: #737373;
     }
     #flex-box-row1{
+      text-align:center;
+      color:white;
         height: 501px;
         margin-top: 45%;
         margin-left: 3%;

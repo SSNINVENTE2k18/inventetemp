@@ -148,7 +148,7 @@ width:600px;
 }
 #dates-css{
     position: relative;
-    left: 43%;
+    left: 42%;
     top: 53%;
     width: 50%;
     color:white;
@@ -169,7 +169,7 @@ width:600px;
      height:100px
 }
 @media only screen and (max-width: 768px) {
-    #home{
+    .home{
         overflow: hidden;
     }
   
