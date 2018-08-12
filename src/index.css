@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: radial-gradient( #FFB115,#FF9800);
+}
+#root{
+  margin: 0;
+  padding: 0;
+}
+html{
+  height: 100%;
+  width:100%;
+}
+.home{
+  overflow: hidden;
+}

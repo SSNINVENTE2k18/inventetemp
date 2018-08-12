@@ -1,0 +1,248 @@
+ #homepage-div{
+    width:100vw;
+    height:98.2vh;
+    display: block;
+    position: relative;
+}
+.size-adjust{
+    height:400px;
+    width:200px;
+}
+.home{
+    width: 100%;
+    height:100%;
+    margin:0;
+    padding:0;
+
+}
+ #left-css{
+    height: 360px;
+    position: absolute;
+    top: 35%;
+    left: 16%;
+} 
+#right-css{
+    height: 360px;
+    position: absolute;
+    top: 35%;
+    right: 16%;
+} 
+.flex-box{
+    display: flex;
+    width: 100%;
+}
+.ent-flex{
+   flex:50%;
+}
+#stone-css{
+z-index:99;
+height:200px;
+width:600px;
+}
+#pp-css{
+    position:absolute;
+    top: 61%;
+    left: 46%;
+}
+
+#cloud-css{
+    position: absolute;
+    top:0%;
+    left:0;
+    animation-name: leftmove;
+    animation-iteration-count: infinite;
+    animation-timing-function:linear;
+    animation-duration: 5s;
+    animation-delay: 2s; 
+}
+#cloud-div{
+    position: absolute;
+    top: -7vw;
+    left: 35vh;
+    width: 200px;
+    height: 400px;
+}
+#cloud-css3{
+    position: absolute;
+    top:0;
+    left:30%;
+    animation-name: leftmove,rightmove;
+    animation-iteration-count: infinite;
+    animation-timing-function:linear;
+    animation-duration: 5s;
+    animation-delay: 2s; 
+}
+#cloud-css2{
+    position: absolute;
+    top:0;
+    left:50%;
+    animation-name: leftmove,rightmove;
+    animation-iteration-count: infinite,infinite;
+    animation-timing-function:ease-out,ease-in;
+    animation-duration: 5s,5s; 
+    animation-delay: 2s,1s;
+}
+#cloud-css1{
+    position: absolute;
+    top:-15%;
+    right:0;
+    animation-name: rightmove;
+    animation-iteration-count: infinite;
+    animation-timing-function:linear;
+    animation-duration: 5s;
+    animation-delay: 2s; 
+}
+#stone-div{
+    position: absolute;
+    top: 73%;
+    left: 28%;
+}
+#name-css{
+    top: 48%;
+    width: 325px;
+    position: absolute;
+    left: 41%;
+    width: 253px;
+}
+@keyframes leftmove{
+    0%{
+        margin-left:0;
+    }
+    50%{
+        margin-left:100px;
+    }
+    75%{
+        margin-left:50px;
+    }
+    100%{
+        margin-left:0;
+    }
+}
+@keyframes rightmove{
+    0%{
+        margin-right:0;
+    }
+    50%{
+        margin-right:100px;
+    }
+    75%{
+        margin-right:50px;
+    }
+    100%{
+        margin-right:0;
+    }
+}
+#logo{
+    position: absolute;
+    left: 38vw;
+    width: 412px;
+    height: 400px;
+    top: 7px;
+}
+#bulb-css{
+    animation-name: opacitycontroller;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-delay: 2s;
+
+}
+#dates-css{
+    position: relative;
+    left: 43%;
+    top: 53%;
+    width: 50%;
+    color:white;
+}
+@keyframes opacitycontroller{
+    0%{
+        opacity: 0;
+    }
+    50%{
+        opacity:1;
+    }
+    100%{
+        opacity:0;
+    }
+}
+#pp-img{
+    width:100px;
+     height:100px
+}
+@media only screen and (max-width: 768px) {
+    #home{
+        overflow: hidden;
+    }
+  
+    #homepage-div{
+        margin-top: 41px;
+    }
+    #cloud-div{
+       display: none;
+    }
+    #logo img{
+        width: 83%;
+        height: 73%;
+    }
+    #logo{
+        width: 60%;
+    height: 100%;
+    margin-top: -21%;
+    left:33vw;
+    }
+    #right-css{
+        height: 100%;
+        width: 40%;
+        position: absolute;
+        top: 0%;
+        right: 0%;
+    }
+    #dates-css{
+        display: block;
+    top: 33%;
+    left: 29%;
+    }
+    h2{
+        font-size: 1.2rem;
+        margin-top: 22px;
+    }
+    #pp-img{
+         width:34%;
+    }
+    #name-css{
+        top: 30%;
+        left: 19%;
+    }
+    #left-css{
+        height: 100%;
+        width: 40%;
+        position: absolute;
+        top: 0;
+        left: 3%;
+    }
+    #stone-div{
+        position: absolute;
+        top: 55%;
+        width: 80%;
+        height: 25%;
+        left: 0;
+        margin-left: 17%;
+    }
+    #cloud-css{
+        height: 38%;
+        width: 36%;
+    }
+    #stone-css{
+        width: 90%;
+    margin-top: -17%;
+    margin-left: 1%;
+    } 
+    #pp-css{
+        top: 41%;
+        left: 47%;
+    }
+    .size-adjust{
+        width:50%;
+        height:50%;
+    }
+} 
+
