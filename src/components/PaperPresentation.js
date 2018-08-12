@@ -20,7 +20,7 @@ class PaperPresentation extends Component{
                                <div className="flex-hover"><NavLink className="link" style={{ textDecoration: 'none', color:'white' }} to={`${match.url}/events-CHEM`}><img alt="it-imag8e" src={require('../assests/chem.png')} /></NavLink></div>
                             </div>
                             <div className="flex-box-row2" id="flex-box-row1">
-                                <div><NavLink className="link" style={{ textDecoration: 'none', color:'white' }} to={`${match.url}/events-IT`}>IT</NavLink></div>
+                                <div><NavLink className="link"  style={{ textDecoration: 'none', color:'white' }} to={`${match.url}/events-IT`}>IT</NavLink></div>
                                 <div><NavLink className="link" style={{ textDecoration: 'none', color:'white' }} to={`${match.url}/events-ECE`}>ECE</NavLink></div>
                                 <div><NavLink className="link" style={{ textDecoration: 'none', color:'white' }} to={`${match.url}/events-CSE`}>CSE</NavLink></div>
                                 <div><NavLink className="link" style={{ textDecoration: 'none', color:'white' }} to={`${match.url}/events-CIVIL`}>CIVIL</NavLink></div>

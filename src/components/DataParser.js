@@ -32,9 +32,9 @@ class DataParser extends Component{
               <h1>{title}</h1>
              <p><strong>Description:</strong></p><p dangerouslySetInnerHTML={createdes()}></p>
              <ul>{items}</ul>
-            <p><strong>Venue:</strong></p><p>{ven}</p><br/>
-            <p><strong>Timings:</strong></p><h4>{times}</h4><br/>
-           <p><strong>Event-Heads:</strong></p><div>{heads}</div><br/>
+            <p><strong>Venue:</strong></p><p>{ven}</p>
+            <p><strong>Timings:</strong></p><h4>{times}</h4>
+           <p><strong>Event-Heads:</strong></p><div>{heads}</div>
        </div>
        </div>
        </div>);

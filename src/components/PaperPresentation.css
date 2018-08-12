@@ -5,6 +5,7 @@
 }
 #pp-main{
     height:50px;
+    margin-top:22px;
 }
 #notes-detail{ 
    position: relative;
@@ -27,22 +28,25 @@ p{
     border-radius: 20%;
     border: .7px solid white;
     width: 7.5%;
-    background: slategray;
+    background:#737373;
 }
 .flex-hover{
-    background: slategray;
+    background: #737373;
 }
 .flex-hover:active{
     border-width:5px;
 }
 #pp-event-display{
     margin-left: 10%;
-    margin-top: 15%;
+    margin-top: 11%;
     width: 80%;
     padding: 33px;
     border: 3px solid white;
-    background: slategray;
+    background: #737373;
     border-radius: 10px;
+}
+#pp-event-area{
+    word-wrap: break-word;
 }
 #pp-event-outer{
     color:white;
@@ -59,11 +63,11 @@ p{
     justify-content: space-around;
 }
 .flex-box-row2  div{
-    padding: 15px;
+    padding: 10px;
     border-radius: 20%;
     border: .7px solid white;
     width: 7.5%;
-    background: slategray;
+    background: #737373;
 }
 @media only screen and (max-width:768px) { 
 
@@ -74,7 +78,7 @@ p{
     #pp-event-display{
         margin-left: 22%;
         margin-top: -51%;
-        width: 70%;
+        width: 56%;
     }
     .flex-box-row{
           display: none;
@@ -92,7 +96,7 @@ p{
         border-radius: 20%;
         border: .7px solid white;
         width: 7.5%;
-        background: slategray;
+        background: #737373;
     }
     #flex-box-row1{
         height: 501px;
@@ -101,5 +105,10 @@ p{
     }
     #flex-box-row2>div:active{
         border:2px solid white;
+    }
+    #notes-detail{
+        width: 70%;
+        top: 61%;
+        left: 24%;
     }
 }

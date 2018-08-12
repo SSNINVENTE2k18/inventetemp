@@ -41,7 +41,7 @@ class App extends Component {
        <img src={cloud} id="cloud-css" className="size-adjust" alt="newclouds"/>
       <img src={cloud} id="cloud-css1" className="size-adjust" alt="newclouds"/>
       <img src={cloud} id="cloud-css2" className="size-adjust" alt="newclouds"/>
-      <div id="notes-detail">Click on the center image to view the paper presentation!</div>
+      <div id="notes-detail">Click on the center image to view the paper presentation</div>
      </div>
      </div>
     )
