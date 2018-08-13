@@ -1,5 +1,5 @@
 {
-    "events-CSE"  :{
+    "cse"  :{
                     "title" : "Paper Presentation - CSE",
                     "description" : "Put on your thinking caps and pop the magic in presenting your novel ideas of the era in paper.Make a STATEMENT (literally...) and stand by itin the domain of CSE and let our esteemed panelists be the better judges. We sure can find the copy cats..",
                     "rules" :
@@ -26,7 +26,7 @@
                         }
                     ]
                 },
-    "events-IT" : {
+    "it" : {
                         "title" : "Paper Presentation - IT",
                         "description" : "<strong>“One of the advantages of being disorganized is that one is always having surprising discoveries.”</strong><br /><br />All innovations are born out of creativity. After all, the best designs of today’s technology started as mere blueprints. Even small creative ideas of individuals may prove to be the basis for tomorrow’s massive technologies. Here is a wonderful opportunity for the you to show case your talents.<br /><br />We want you to present your idea to us so that we can help you convert it to reality!<p>Topics: <ul><li>Wireless Communication and Networking</li><li>Web Services and Machine Intelligence</li><li>Information Security</li><li>Business Intelligence ERP</li><li>Speech and Image Processing</li><li>Data Mining and Data Warehousing</li><li>Distributed Systems</li><li>VoIP</li><li>RFID and Applications</li><li>Open Source Technologies</li><li>Digital Media Broadcasting</li><li>Security and Cloud Computing</li><li>Internet of Things</li><li>Big Data</li><li>Operating System</li></ul></p>",
                         "venue" : "IT Department Seminar Hall",
@@ -53,7 +53,7 @@
                             }
                         ]
                     },
-    "events-ECE" : {
+    "ece" : {
                 "title" : "Paper Presentation - ECE",
                 "description" : "Presentation of technical papers on the following domains:<ul><li>Embedded Systems</li><li>Robotics/Artificial Intelligence</li><li>Antennas/RF and Microwave Engineering</li><li>Wireless Sensor Networks</li><li>Microelectronics and Nanoscale Devices</li><li>Energy Harvesting</li><li>Optical/LIDAR</li><li>Digital Image Processing</li></ul>",
                 "rules" :
@@ -72,7 +72,7 @@
                     }
                 ]
             },
-    "events-EEE" : {
+    "eee" : {
                     "title" : "Paper Presentation - EEE",
                     "description" : "Need a place to show off your research and hard work? We’ll pay you for it!  Take part in Eupraxia’s technical event, Paper Presentation and have your work judged by a panel you wouldn’t even dream of meeting.",
                     "rules" :
@@ -103,7 +103,7 @@
                     ]
                 },
 
-    "events-MECH" : {
+    "mech" : {
                     "title" : "Paper Presentation - MECH",
                     "description" : "Do you want to portray your innovations to the outside world?Do you want to present your ideas in front of a highly experienced panel of judges?<br/>Welcome to the Paper Presentation event of the Mechanical Department. Get ready to tickle your technical nerves and impress people at SSN College of Engineering's national symposium, Invente 2k18.<br/>Papers under the following three categories are being invited:<br/><ul><li>Thermal.</li><br/><li>Design.</li><br/><li>Manufacturing.</li><br/>",
                     "rules" :
@@ -146,7 +146,7 @@
                     ]
                 },
 
-    "events-CHEM" : {
+    "chem" : {
                     "title" : "Paper Presentation - Chemical",
                     "description" : "Do you consider yourself thorough in your field of interest? Do you wish to flaunt it? if yes, this platform is for you. Come present a paper if your expertise aligns with any of the following domains, stand proud as you shoot down the volley of queries afterwards. Following are the topics available for paper presentation.<br><ol><li>Sustainable Energy</li><li>Environment and Pollution control</li><li>Solid waste management</li><li>Waste water treatment</li><li>Nanotechnology</li><li>Computational Modelling and Simulation</li><li>Material Science</li><li>Bioprocess Engineering</li></ol>",
                     "rules" :
@@ -178,7 +178,7 @@
                     ]
                 },
 
-    "events-BIO" : {
+    "bme" : {
                         "title" : "Paper Presentation - Bio-Medical",
                         "description" : "Express your enthusiasm for the biomedical field by presenting your innovations and ideas.Participants may send their abstracts on topics in the biomedical field such as (not restricted to these topics):<ul><li>Bio-materials for drug and delivery</li><br/><li>Nanotechnology and Bio-mems</li><br/><li>Brain computer Interface/ Human Machine Interface</li><br/><li>Bio-Signals and Image Processing</li><br/><li>Bio-Metrics</li><br/><li>Neonatal devices</li><br/><li>Medical data analytics</li><br/><li>Virtual reality</li><br/><li>Medical electronic and instrumentation</li><br/><li>Hospital management</li><br/></ul>",
                                    "rules" :
@@ -207,7 +207,7 @@
                         ]
                     },
 
-    "events-CIVIL" : {
+    "civil" : {
                         "title" : "Paper Presentation - Civil",
                         "description" : "<p><strong>“It's not just about great ideas, it is about making them happen.”</strong></p><p>An arena to showcase your talent and in-depth knowledge from your research areas, Paper presentation focuses on exposing your ideas to the world thereby facilitating transformation of seedling ideas to giant trees of innovation and progress.  We hope that our endeavor will play a significant part in providing the platform for deserving minds on an ever rising and never ending growth.</p>",
                         "rules" :

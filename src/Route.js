@@ -6,7 +6,7 @@ export default ()=>(
     <BrowserRouter>
   <Switch>
         <Route exact path='/' component={App} />
-        <Route path='/events-pp' component={PaperPresentation} />
+        <Route path='/events' component={PaperPresentation} />
       </Switch>
 </BrowserRouter>
 );
