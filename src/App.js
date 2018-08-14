@@ -34,7 +34,7 @@ class App extends Component {
          </div>
        </div>
        <div id="dates-css"><h2>September 21 & 22</h2></div>
-       <div id="pp-css"><Link to="/events-pp"><img src={require("./assests/pp.svg")} id="pp-img"  alt="img-data" /></Link></div>
+       <div id="pp-css"><Link to="/events"><img src={require("./assests/pp.svg")} id="pp-img"  alt="img-data" /></Link></div>
        <div id="stone-div">
        <img src={stone} id="stone-css"  alt="clouds"/>
        </div>
