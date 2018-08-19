@@ -28,7 +28,7 @@
                 },
     "it" : {
                         "title" : "Paper Presentation - IT",
-                        "description" : "<strong>“One of the advantages of being disorganized is that one is always having surprising discoveries.”</strong><br /><br />All innovations are born out of creativity. After all, the best designs of today’s technology started as mere blueprints. Even small creative ideas of individuals may prove to be the basis for tomorrow’s massive technologies. Here is a wonderful opportunity for the you to show case your talents.<br /><br />We want you to present your idea to us so that we can help you convert it to reality!<p>Topics: <ul><li>Wireless Communication and Networking</li><li>Web Services and Machine Intelligence</li><li>Information Security</li><li>Business Intelligence ERP</li><li>Speech and Image Processing</li><li>Data Mining and Data Warehousing</li><li>Distributed Systems</li><li>VoIP</li><li>RFID and Applications</li><li>Open Source Technologies</li><li>Digital Media Broadcasting</li><li>Security and Cloud Computing</li><li>Internet of Things</li><li>Big Data</li><li>Operating System</li></ul></p>",
+                        "description" : "<strong>“One of the advantages of being disorganized is that one is always having surprising discoveries.”</strong><br /><br />All innovations are born out of creativity. After all, the best designs of today’s technology started as mere blueprints. Even small creative ideas of individuals may prove to be the basis for tomorrow’s massive technologies. Here is a wonderful opportunity for the you to show case your talents.<br /><br />We want you to present your idea to us so that we can help you convert it to reality!<p>Topics: <ul><li>Wireless Communication and Networking</li><li>Web Services and Machine Intelligence</li><li>Information Security</li><li>Business Intelligence ERP</li><li>Speech and Image Processing</li><li>Data Mining and Data Warehousing</li><li>Distributed Systems</li><li>VoIP</li><li>RFID and Applications</li><li>Open Source Technologies</li><li>Digital Media Broadcasting</li><li>Security and Cloud Computing</li><li>Internet of Things</li><li>Big Data</li><li>Operating System</li> <li>and any other current fields of research that is original and unpublished elsewhere.</li></ul></p>",
                         "venue" : "IT Department Seminar Hall",
                         "timings" : [ "21st September 2018, 11.00 am" ],
                         "rules" : 
@@ -44,12 +44,15 @@
                         "heads" :
                         [
                             {
-                                "name" : "Harinie",
+                                "name" : "Jayaram Hariharakrishnan",
                                 "contacts" : [ "" ]
                             },
                             {
-                                "name" : "L. Swetha",
+                                "name" : "Sonal Sharma",
                                 "contacts" : [ "" ]
+                            },{
+                                "name":"Sanjana",
+                                "contacts":[""]
                             }
                         ]
                     },
@@ -126,7 +129,8 @@
                          "<li>Contact No. of team members.</li>",
                          "<li>College Name, Year and Department.</li>",
                          "<li>Email Id of HOD.</li></ul>",
-                    "NOTE 3: Inter-department and inter college presentations are also welcome."
+                    "NOTE 3: Inter-department and inter college presentations are also welcome.",
+                    "Please refer the template<a target=\"_blank\" href=\"../../../mech-pp-temp.pdf\" style=\"text-decoration: underline;\">here!</a> for reference"
                     ],
                     "venue" : "Mechanical Department Seminar Halls",
                     "timings" : [ "21st September 2018, 11.00 AM" ],

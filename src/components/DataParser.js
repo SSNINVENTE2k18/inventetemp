@@ -1,9 +1,6 @@
 import React, { Component } from 'react'
 import './DataParser'
 class DataParser extends Component{
-    constructor(props){
-        super(props)
-    }
   render(){
       let data=require('./data.json');
       const { match } = this.props;
