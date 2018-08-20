@@ -20,7 +20,7 @@ class DataParser extends Component{
           return{ __html : desc };
       }
       function subdiv(header){
-                const data=<p>{header.name}-{header.contacts}</p>;
+                const data=<div style={{padding:"5px",marginRight:"10%",width:"150px"}}>{header.name}<br/><a href={"tel:+91"+header.contacts} style={{textDecoration:"underline",color:"white",fontSize:"20px"}}>{header.contacts}</a></div>;
                 return data;
       }
        return (<div id="pp-event-display">
@@ -28,10 +28,10 @@ class DataParser extends Component{
            <div id="pp-event-area">
               <h1>{title}</h1>
              <p><strong>Description:</strong></p><p dangerouslySetInnerHTML={createdes()}></p>
-             <ul>{items}</ul>
+             <p><strong>Rules:</strong></p><ul>{items}</ul>
             <p><strong>Venue:</strong></p><p>{ven}</p>
             <p><strong>Timings:</strong></p><h4>{times}</h4>
-           <p><strong>Event-Heads:</strong></p><div>{heads}</div>
+           <p><strong>Event-Heads:</strong></p><div style={{display:"flex"}}>{heads}</div>
        </div>
        </div>
        </div>);

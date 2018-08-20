@@ -1,28 +1,30 @@
 {
     "cse"  :{
                     "title" : "Paper Presentation - CSE",
-                    "description" : "Put on your thinking caps and pop the magic in presenting your novel ideas of the era in paper.Make a STATEMENT (literally...) and stand by itin the domain of CSE and let our esteemed panelists be the better judges. We sure can find the copy cats..",
+                    "description" : "\" Information leads a true leader, and a true leader leads others.\"<br/>Put on your thinking caps and show us the magic of your novel ideas, on paper. Let our esteemed panelists be the better judges.<br/>We invite your entries for the following topics:<ul><li>Open source technologies</li><li>Artificial Intelligence</li><li>Big Data Analysis</li><li>Cloud Computing</li><li>Object Oriented Technology</li><li>Embedded Systems</li></ul><strong>Note: If you have other ideas that fit into the prominent domains of CS, don’t hesitate to send in your entries too.",
                     "rules" :
                     [
-                        "Only CS domains are encouraged.",
-                        "Maximum of 3 authors and only student authors allowed. It is not a necessity that all the authors must be from the same institute.",
-                        "We take plagiarism very seriously. Only original research works are accepted.",
-                        "The paper must not have been presented or published anywhere else.",
-                        "The paper must be in two column IEEE format. This format must be strictly adhered to. The paper length must be limited to 6 pages.",
-                        "The paper must be in .pdf or .doc or .docx formats.",
-                        "The paper must be sent through mail. The instructions are as follows:<br/><ul><li>The subject must be the title of the paper.</li><li>The body of the mail should include - Name and Institute of participant (starting from the first author and going till the third one), Department and Year, Contact numbers, Email addresses.</li><li>Send the paper as an attachment with this mail.</li><li>The email id is : <strong>ppcse@ssninvente.com</strong></li></ul><br/><br/>Last date to send in the paper: <strong>3rd September 2018</strong><br/><br/>Acceptance notification: <strong>17th September 2018</strong>"
+                        "Paper must not have been presented or published anywhere before, or be under consideration for publication in any conference or journal.",
+                         "Maximum of 2 authors. Only student authors allowed.",
+                       "Participants in a team can be from same/different institutes.",
+                       "Send your submission to cse3.0pp@gmail.com as follows:",
+                       "<ul><li>Subject: Title of the Paper</li><li>Body of the email: For each participant, mention - Name, Institute, Branch, Year, Contact Number, Email address.</li><li>Attachment: Manuscript in IEEE format, as .pdf/.doc/.docx</li></ul>",
+                       "A big no-no to plagiarism please!"
                     ],
                     "venue" : "CSE Department Seminar Hall",
-                    "timings" : [ "21st September 2018, 11.00 am" ],
+                    "timings" : [ "21st September 2018, 10.00 am" ],
                     "heads" :
                     [
                         {
-                            "name" : "Rajeswari Sujana",
-                            "contacts" : [ "" ]
+                            "name" : "Shivani K",
+                            "contacts" : [ "9176951198" ]
                         },
                         {
-                            "name" : "Keerthika",
-                            "contacts" : [ "" ]
+                            "name" : "Tahseen Fathima I",
+                            "contacts" : [ "7358592915" ]
+                        },{
+                            "name":"Shruthi K",
+                            "contacts":["7358529795"]
                         }
                     ]
                 },
@@ -55,6 +57,35 @@
                                 "contacts":[""]
                             }
                         ]
+                    },
+    "maths":{
+       "title" :"Paper Presentation - exlog",
+       "description":"<strong>AREAS & TOPICS FOR PRESENTATION :</strong><p>MECHANICAL ENGINEERING :</p><ul><li>Mathematics in supply chain management.</li><li>Scheduling problem using operation research.</li> <li>Game theory.</li></ul><p>ELECTRONICS AND COMMUNICATION ENGINEERING:</p><ul><li>Signal processing:</li><ol><li>Usage of linear algebra</li><li>Transforms ( Fourier, Laplace)</li></ol></ul><p>COMPUTER SCIENCE ENGINEERING:</p><ul><li>Networking:</li><li><ol><li>Graph theory</li><li>Probability and statistics</li></ol></li></ul><p>BIOMEDICAL ENGINEERING:</p><ul><li>Brain network, signals using Graph theory and stochastic process</li></ul>",
+        "rules":[
+        "Candidates should send their paper in soft copy to the e-mail address ssnexlog@gmail.com before the LAST DATE (07/09/2018). PAPERS MAILED AFTER 07/09/2018, 08.00PM WILL NOT BE CONSIDERED.",
+        "Can be a team of two members.",
+        "Spot entries are not allowed.",
+        "Accepted papers will be intimated through their mail id on or before 14/09/2018.",
+        "The presentation time is 8 minutes and the queries for 2 minutes for each paper.",
+        "Selected candidates should bring 2 hard copies at the time of presentation.",
+        "2 copies of abstract for the presentation in hardcopy required on the day of presentation not exceeding 300 words.",
+        "Judges decision will be final and will not be further entertained.",
+        "LAST DATE : 07/09/2018"
+        ],
+        "venue":"ECE central seminar hall",
+        "timings":["10.00am to 1.00 pm"],
+        "heads":[
+            {
+              "name":"Hema priya",
+              "contacts":["9445826410"]
+            },{
+                "name":"Eshwar",
+                "contacts":["9962022236"]
+            },{
+                "name":"Akash",
+                "contacts":["7200691055"]
+            }
+        ]
                     },
     "ece" : {
                 "title" : "Paper Presentation - ECE",
@@ -111,7 +142,6 @@
                     "description" : "Do you want to portray your innovations to the outside world?Do you want to present your ideas in front of a highly experienced panel of judges?<br/>Welcome to the Paper Presentation event of the Mechanical Department. Get ready to tickle your technical nerves and impress people at SSN College of Engineering's national symposium, Invente 2k18.<br/>Papers under the following three categories are being invited:<br/><ul><li>Thermal.</li><br/><li>Design.</li><br/><li>Manufacturing.</li><br/>",
                     "rules" :
                     [
-                        "<strong>Rules:</strong>",
                         "Max. No. of members per team: 3",
                         "Presentation time limit: 7 minutes.",
                         "Date: 21st September",
