@@ -19,7 +19,7 @@ class PaperPresentation extends Component{
                                <div className="flex-hover" id="event-06"><NavLink className="link" style={{ textDecoration: 'none', color:'white' }} to={`${match.url}/bme/paper-presentation`}><img alt="it-image6" src={require('../assests/bme.png')} /><div id="bme-id">BME</div></NavLink></div>
                                <div className="flex-hover" id="event-07"><NavLink className="link" style={{ textDecoration: 'none', color:'white' }} to={`${match.url}/eee/paper-presentation`}><img alt="it-image7" src={require('../assests/eee.png')} /><div id="eee-id">EEE</div></NavLink></div>
                                <div className="flex-hover" id="event-08"><NavLink className="link" style={{ textDecoration: 'none', color:'white' }} to={`${match.url}/chem/paper-presentation`}><img alt="it-imag8e" src={require('../assests/chem.png')} /><div id="chem-id">CHEM</div></NavLink></div>
-                               <div className="flex-hover" id="event-09"><NavLink className="link" style={{ textDecoration: 'none', color:'white' }} to={`${match.url}/maths/paper-presentation`}><img alt="it-imag8ef" src={require('../assests/Exlog.png')} /><div id="exlog-id">Exlog</div></NavLink></div>
+                               <div className="flex-hover" id="event-09"><NavLink className="link" style={{ textDecoration: 'none', color:'white' }} to={`${match.url}/maths/paper-presentation`}><img alt="it-imag8ef" src={require('../assests/Exlog.png')} /><div id="exlog-id">Maths</div></NavLink></div>
                             </div>
                             <div className="flex-box-row2" id="flex-box-row1">
                                 <div><NavLink className="link"  style={{ textDecoration: 'none', color:'white' }} to={`${match.url}/it/paper-presentation`}>IT</NavLink></div>
@@ -30,7 +30,7 @@ class PaperPresentation extends Component{
                                 <div><NavLink className="link" style={{ textDecoration: 'none', color:'white' }} to={`${match.url}/bme/paper-presentation`}>BME</NavLink></div>
                                 <div><NavLink className="link" style={{ textDecoration: 'none', color:'white' }} to={`${match.url}/eee/paper-presentation`}>EEE</NavLink></div>
                                 <div><NavLink className="link" style={{ textDecoration: 'none', color:'white' }} to={`${match.url}/chem/paper-presentation`}>CHEM</NavLink></div>
-                                <div><NavLink className="link" style={{ textDecoration: 'none', color:'white' }} to={`${match.url}/maths/paper-presentation`}>Exlog</NavLink></div>
+                                <div><NavLink className="link" style={{ textDecoration: 'none', color:'white' }} to={`${match.url}/maths/paper-presentation`}>Maths</NavLink></div>
                             </div>
                        </div>
                        <div id="home-page-redirect" ><NavLink to={{pathname:'/'}}  style={{ textDecoration: 'none', color:'white' }}>Click <strong>here!</strong> to go back to the Homepage</NavLink></div>
