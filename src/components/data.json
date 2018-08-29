@@ -108,31 +108,31 @@
             },
     "eee" : {
                     "title" : "Paper Presentation - EEE",
-                    "description" : "Need a place to show off your research and hard work? We’ll pay you for it!  Take part in Eupraxia’s technical event, Paper Presentation and have your work judged by a panel you wouldn’t even dream of meeting.",
+                    "description" : "It’s time to unleash the technical fundamental knowledge and the talent within you. Providing the students to disseminate their latest research results in various fields of electrical engineering, INVENTE 3.0 will be a platform to exchange views on the subject and showcase your original ideas.The students can send in their papers in the field of electrical engineering. The paper may fall under any of the tracks mentioned below.<ul><li>Track 1 : Power electronics, drives, renewable energy, power system, microgrids, Smart grids</li><li>Track 2 : Electrical machines, motors , BLDC motor drives, Special Motor drives</li><li>Track 3: DSP, Embedded systems, Control and Automation.</li><li>Track 4: Nanotechnology, VLSI, Mems and wireless networks</li>",
                     "rules" :
                     [
-                        "<strong>Submission Rules</strong> <ul><li>Dead line for submission is <strong>September 2</strong>.</li><li>The full paper must be sent to <strong>paper.eee2k16@gmail.com</strong></li><li>The subject of the mail should contain the track to which the paper belongs and the title of the paper.</li><li>Example: Track 2: (Paper title)</li><li><strong>Email should contain:</strong><ol><li>Name of the participant.</li><li>Mobile number</li><li>College Name</li><li>Department</li></ol></li><li>The paper must be complying with the standard IEEE format.</li><li>Pictures and simulations if any must be clear</li><li>Any detection of plagiarism will result in immediate disqualification of the paper.</li></ul>",
-                        "<strong>Rules</strong><ul><li>Each team must contain a maximum of 3 members</li><li>The team members need not belong to the same institution</li><li>One participant should not be a part of more than one team</li><li>The selected team must present their paper in front of a panel of judges.</li><li>The presentation shall go on for 8 minutes. This will be followed by a questioning session for 2 minutes.</li><li>Selected papers will advance to the next round</li>",
-                        "<strong>Finals</strong><ul><li>The presentation shall go on for 8 minutes followed by a questioning session for 2 minutes.</li><li>3 papers will be selected as winners.</li>",
-                        "<strong>Tracks</strong><br><strong>Track 1:Power</strong><ul><li>Energy Conservation</li><li>Facts & HVDC</li><li>Green Energy</li><li>Power Quality, Power System harmonics and contingencies</li><li>Smart Grids</li></ul>",
-                        "<br><strong>Track 2:VLSI</strong><ul><li>MEMS technology</li><li>Embedded Systems</li><li>Digital Signal Processing</li><li>Analog and Digital logic circuit design</li><li>Nano technology</li><li>Control Systems</li></ul>",
-                        "<br><strong>Track 3:Recent Trends</strong><ul><li>Wireless Electricity</li><li>Artificial intelligence in power system</li><li>PPTC devices & applications</li><li>Hybrid technology and applications</li></ul>",
-                        "<br><strong>Track 4:</strong><ul><li>Power Electronics and devices</li><li>Special Machines</li><li>Axial field Electrical Machines</li><li>D.C and A.C Machines</li><li>Design of Electrical Machines</li></ul>"
+                    "The participants should send their papers in IEEE format without exceeding 8 pages.",
+	                "The paper should be sent to the mail id: inventeppeee@gmail.com",
+                    "The review of papers will be done and only the selected papers have to be presented on the event day.",
+	                "The presentations are 7 minutes in length with an additional 3 minutes for discussions.",
+	                "The selected candidates should bring their power point presentation and the soft copy of their paper in the pen drive. ",
+                    "The best paper will be chosen through weighing criterions like Novelty, Similarity level, Style of writing, Presentation and Discussion.",
+                    "DATES OF SUBMISSION : 01/09/2018 – 14/09/2018"
                     ],
-                    "venue" : "M.E classrooms and EEE Dept. Seminar Hall",
+                    "venue" : "EEE Department",
                     "timings" :
                     [
-                        "21st September 2018 at 1:30 PM "
+                        "21st September 2018  "
                     ],
                     "heads" :
                     [
                         {
-                            "name" : "Kavitha",
-                            "contacts" : [ "" ]
+                            "name" : "Akash R ",
+                            "contacts" : [ "9629321371" ]
                         },
                         {
-                            "name" : "Ramaseshan",
-                            "contacts" : [ "" ]
+                            "name" : "Tarrani S",
+                            "contacts" : [ "7373792905" ]
                         }
                     ]
                 },
