@@ -243,23 +243,24 @@
 
     "civil" : {
                         "title" : "Paper Presentation - Civil",
-                        "description" : "<p><strong>“It's not just about great ideas, it is about making them happen.”</strong></p><p>An arena to showcase your talent and in-depth knowledge from your research areas, Paper presentation focuses on exposing your ideas to the world thereby facilitating transformation of seedling ideas to giant trees of innovation and progress.  We hope that our endeavor will play a significant part in providing the platform for deserving minds on an ever rising and never ending growth.</p>",
+                        "description" : "<p><strong>\"Be still when you have nothing to say; when genuine passion moves you, say what you’ve got to say, and say it hot.– D. H. Lawrence\"</strong></p><p>Take an advantage of presentation of your paper/ research on site and get comments from the other researchers and academicians in the field of education and other related areas.</p>",
                         "rules" :
                         [
-                            "<strong>PRE-SELECTION PROCESS</strong><ul><li>TOPIC - Any topic related to civil engineering, preferably “Recent Advances in Civil Engineering”</li><li>Participants are requested to mail in their abstracts of 250-300 words in .pdf format and the title of the paper must be clearly stated.</li><li>The abstract should be mailed to paper2018civil@gmail.com on or before 221st August 2018 (11:59pm).</li><li>The selected abstracts will be intimated through e-mail and the selected participants should mail their entire paper in .pdf format with the subject as PAPER - *Title of paper* on or before 17th September 2018 (11:59pm).</li><li>Selected papers will be intimated through e-mail by19th September, 2018 who will be qualified for the final round.</li></ul>",
-                            "<strong>FINAL ROUND:</strong><ul><li>The selected participants will get 8 minutes to present their paper and 3 minutes for answering questions on the day of event.</li><li>The participants are requested to bring their PowerPoint presentations in a pendrive on the day of presentation.</li><li>You will be judged for originality, innovation, clarity in presentation and adherence to time. </li><li> Note that all participants who took part in the event are requested to report at the venue on September 10, 2018 for collecting their participation certificates.</li></ul>",
-                            "<strong>RULES:</strong><ol><li>A team of 2-3 can participate.</li><li>Plagiarism should strictly be avoided. References made can be mentioned at the end of the paper.  </li><li>The paper should be in IEEE format (.pdf file). Papers not adhering to this format would be directly eliminated. </li><li>The mail should include the following details regarding all the participants: Full Name, Contact No, Email ID and College Name.</li><li>The selected candidates will have to present their papers on September 10, 2018 at SSN College of Engineering.</li><li>The Prize winning papers will get a chance to present their papers in the National Conference on ‘Recent Advances in Civil Engineering’ on 117th September, 2018 at SSN College of Engineering.</li></ol>"
+                            "Preselection Round:<br/><ul><li>An abstract of the topic (150 to 250 words) is to be sent to organizing team on or before 31st August 2018(11:59 pm).</li><li>The selection criteria will be based on uniqueness in the topic and format</li><li>After selection of abstracts the participant(s) should mail the camera-ready paper to the organizing team on 15th September 2018(11:59 pm).</li><li>The abstract and camera-ready paper should be mailed to paper.invente@gmail.com</li><li>Note: For the on-going projects the camera-ready paper is optional.</li><ul>",
+                            "Final round:<br/><ul><li>The selected participants should report at the venue on 21st September 2018 with the camera-ready paper (Hard copy) and a presentation(PPT) in pen drive or mail(Preferably in pen drive).</li><li>Duration of 7 minutes will be allotted for presentation and 3 minutes for queries.</li><li>Participant(s) will be judged based on the unique creativity, presentation skills and format.</li>",
+                            "General Rules:<br/><ul><li>The published paper and on – going projects are encouraged.</li><li>Maximum Number of presenters: Three</li><li>Cross College teams (Except SSN Students) are allowed.</li><li>Participant(s) will be judged based on the unique creativity, presentation skills andformat.</li><li>The judge’s decision shall be final and binding.</li>",
+                            "Paper format:<br/><ul><li>Articles should be in Microsoft Word format or PDF format.</li><li>Articles should be written in single column format, using Times New Roman font, 12-point font size. Keep the layout of the text as simple as possible.</li><li>Equations and formula should be readable, preferably written using equation.</li><li>The affiliations of the author and co – author should be enclosed in the title page of the abstract.</li>"
                         ],
-                        "venue" : "Class Room (Civil Department)",
-                        "timings" : [ "22nd September 2018, 10.00 am - 12.30 pm" ],
+                        "venue" : "Civil Engineering Department CAD LAB",
+                        "timings" : [ "21st September 2018 (Friday)" ],
                         "heads" :
                         [{
-                                "name" : "Rashmi Nagendran",
-                                "contacts" : [ ""	]
+                                "name" : "Aravindh. R",
+                                "contacts" : [ "+918056123153"	]
                             },
                             {
-                                "name" : "Srivatsan",
-                                "contacts" : [ "" ]
+                                "name" : "Meena Kannan",
+                                "contacts" : [ "+917358255254" ]
                             }
                         ]
                     }
