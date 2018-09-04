@@ -189,7 +189,7 @@
                         "Maximum of 3 participants are allowed per presentation.",
                         "Abstracts should not exceed 200 words.",
                         "Judges’ decision is final and binding.",
-                        "Send your abstracts to : <strong></strong>",
+                        "Send your abstracts to : <strong>paperpresentationinvente3.0@gmail.com</strong>",
                         "The file name should be the title of your paper.",
                         "The subject of the mail should be 'PAPER PRESENTATION – (PARTICIPANTS NAMES)'",
                         "Last day for submission of abstracts : <strong>4th September 2018</strong>"
@@ -202,12 +202,12 @@
                     "heads" :
                     [
                         {
-                            "name" : "M Sharmada",
-                            "contacts" : [ ""	]
+                            "name" : "Mushtaq Syed Ahamed",
+                            "contacts" : [ "9003049093"	]
                         },
                         {
-                            "name" : "S Keerthana",
-                            "contacts" : [ "" ]
+                            "name" : "Srinivas",
+                            "contacts" : [ "8939332409" ]
                         }
                     ]
                 },
